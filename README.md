@@ -45,7 +45,7 @@ let client = Client::new("https://testnet.kessari.network");
 ```
 ## Connecting via SDK (Rust)
 
-```toml
+```rust
 use kessari_sdk::Client;
 
 let client = Client::new("https://testnet.kessari.network");
